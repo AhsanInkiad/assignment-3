@@ -1,0 +1,96 @@
+.headings{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+}
+.info{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    color: #E7E7E7;
+
+}
+
+.info-title{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+
+    color: #414040;
+}
+
+.info-description{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #707070;
+}
+.banner-sec{
+    background-image: url(/images/banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.card-headings{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 42px;
+
+    color: #414040;
+}
+
+.card-info{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #707070;
+
+}
+
+.accordion-title{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 31px;
+
+
+    color: #414040;
+}
+
+.name{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.skill{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
+
+.skill-description{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #F3F3F3;
+}
